@@ -1,1 +1,1 @@
-# Score-Keeper - HTML, CSS, JavaScript .
+# Score - Keeper - HTML, CSS, JavaScript .
